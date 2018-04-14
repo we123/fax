@@ -7,7 +7,7 @@
 <a href="http://dh.federalres.org/9018.html" target="_blank">网址二</a> 　 
 <a href="http://dh.federalres.org/9449.html" target="_blank">网址三</a></p>
 <p>◎ </span>  •  小 站：  
-<a href="http://am.hatenboer.org/index.html/" target="_blank">网址一</a> 　 
+<a href="http://am.hatenboer.org/index.html" target="_blank">网址一</a> 　 
 <a href="http://dh.federalres.org/index.html" target="_blank">网址二</a> 　 
 <a href="http://dh.federalres.org/read/" target="_blank">网址三</a></p>
 <p>◎  • 翻 墙 软 件 ：  
